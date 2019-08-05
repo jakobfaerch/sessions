@@ -15,6 +15,7 @@ Output a number saying what the length of the average session is.
 ## Find highest number of concurrent sessions
 
 Find the highest number of overlapping sessions. 
+
 Optionally find the point in time it happened.
 
-Optionally output the highest number of concurrent sessions of each hour.   
+Optionally output the highest number of concurrent sessions of each hour.
