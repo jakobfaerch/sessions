@@ -10,8 +10,12 @@ you need to input the JDBC url `jdbc:h2:file:~/db/sessions` and login without en
 
 ## Group sessions by user
 
-Produce a new table, `useractivity` showing the total number of sessions for each user.
-Make the table's count automatically reflect when new sessions are added to the `sessions` table.
+Show  the total number of sessions for each user.
+
+### Scaling
+
+Estimate how much the dataset could grow before the method implemented would start falling apart.
+What would ways to make it scale beyond that be?
 
 ## Calculate session average length
 
