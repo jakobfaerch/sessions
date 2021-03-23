@@ -17,5 +17,4 @@ dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-jdbc'
 	implementation 'org.springframework.boot:spring-boot-starter-web'
 	runtime 'com.h2database:h2:1.4.200'
-	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 }
